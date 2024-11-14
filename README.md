@@ -17,8 +17,8 @@ Step 5:Iterate through each word in the tokenized text.
 
 # Program:
 
-## Developed By: ANBUSELVAM A
-## REGISTER NO: 212222240009
+## Developed By: Delli Priya L
+## REGISTER NO: 212222230029
 
 ## Importing NLTK and Resource Downloads
 ```

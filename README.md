@@ -1,4 +1,4 @@
-# EX-06 Implementation of Semantic ANalysis
+# EX-06 Implementation of Semantic Analysis
 
 # Aim: 
 To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. 
